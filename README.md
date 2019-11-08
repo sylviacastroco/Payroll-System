@@ -1,9 +1,5 @@
 # Payroll-System
-This project was built using C#.NET. ASP.NET is the primary software used. 
-
-# What I learned
-
-Design, coding, scripting, as well as database connectivity.
+Created an Annual Salary Calculator ASP.NET web application using Visual Studio.
 
 # Login Page
 ![](https://www.sylviacastro.co/payrollsystem/pslogin.png)
