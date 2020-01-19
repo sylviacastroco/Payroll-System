@@ -1,5 +1,5 @@
 # Payroll-System
-An ASP.NET Core Web Application with C# on Visual Studio.
+Created an Annual Salary Calculator ASP.NET web application using Visual Studio.NET 2008.
 
 # Login Page
 ![](https://sylviacastro.co/payrollsystem/pslogin.png)
